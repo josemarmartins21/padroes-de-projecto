@@ -1,0 +1,19 @@
+{
+    "name": "padroes-de-prjecto/josemar",
+    "description": "Padão de projectos",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "PadroesDePrjecto\\Josemar\\": "src/",
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Josemar Martins",
+            "email": "josemar21@outlook.pt"
+        }
+    ],
+    "require": {}
+}
